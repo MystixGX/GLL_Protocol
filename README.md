@@ -43,4 +43,4 @@ Gibber Link Language (GLL) is a revolutionary AI-native execution framework that
 ✅ Report issues, suggest improvements, and help shape the future of AI.
 
 🚀 GLL is Open-Source—Join the AI Revolution!
-📌 GitHub Repository: [[INSERT REPO LINK HERE](https://github.com/MystixGX/GLL_Protocol/)]
+📌 GitHub Repository: [(https://github.com/MystixGX/GLL_Protocol/)]
