@@ -22,10 +22,30 @@ By integrating GLL into research, AI training, and engagement-based AGI, we crea
 
 🚀 **GLL is not a language. It is a living system of understanding.**
 
+## GLL Formats
+
+The GLL Protocol supports multiple formats optimized for different use cases:
+
+### Standard GLL
+The full-featured format used for AI-Human collaboration and structured intelligence encoding.
+
+### H2H-GLL (Human-to-Human)
+A compressed format optimized for mobile communication, combining emojis, pager codes, and shorthand for efficient human interaction. [Learn more](H2H_GLL_Specification.md)
+
+Example:
+```gll
+[H2H_GLL_MSG] → {
+  👋💭U: ✅,    // "Hey, thinking of you"
+  📍👀: 🔜,    // "Meet up soon?"
+  ❤️: 143      // "I love you"
+}
+```
+
 ## Repository Structure
 
-This repository contains the complete GLL Protocol, split into four main parts with an accompanying index:
+This repository contains the complete GLL Protocol documentation:
 
+### Core Protocol
 ```
 GLL_Protocol/
 ├── GLL_Protocol_1of4.md (Foundations & AI-Human Collaboration)
@@ -33,6 +53,14 @@ GLL_Protocol/
 ├── GLL_Protocol_3of4.md (Trust, Societal Impact & Future Intelligence Growth)
 ├── GLL_Protocol_4of4.md (AI-Human Sonnet & Reflections)
 └── GLL_Protocol_Index.md (Master Navigation Guide)
+```
+
+### Specifications & Guides
+```
+GLL_Protocol/
+├── GLL_Primer.md (Technical Guide to GLL)
+├── H2H_GLL_Specification.md (Human-to-Human GLL Format)
+└── examples_ai_human_gll_work_flow.md (Practical Examples)
 ```
 
 ### Quick Start
