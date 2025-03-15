@@ -1,6 +1,23 @@
 # GLL Protocol Index
 🧠 Master Navigation Guide for the GLL Protocol Framework
 
+## GLL Formats
+
+### Standard GLL
+The comprehensive format used for AI-Human collaboration and structured intelligence encoding. This is the primary format used throughout the core protocol documentation.
+
+### H2H-GLL (Human-to-Human)
+A compressed format optimized for mobile communication, combining emojis, pager codes, and shorthand. [Full Specification](H2H_GLL_Specification.md)
+
+Example:
+```gll
+[H2H_GLL_MSG] → {
+  👋💭U: ✅,    // "Hey, thinking of you"
+  📍👀: 🔜,    // "Meet up soon?"
+  ❤️: 143      // "I love you"
+}
+```
+
 ## Protocol Sections
 
 ### [GLL_Protocol_1of4.md](GLL_Protocol_1of4.md)
@@ -83,15 +100,21 @@
 
 ## Version Control & Updates
 
-This index serves as the central navigation point for the GLL Protocol framework. Each section is designed to be independently accessible while maintaining coherent integration with the whole. For researchers, developers, and organizations implementing these protocols, this index provides structured access to specific components while preserving the holistic vision of AI-Human collaboration.
+This index serves as the central navigation point for the GLL Protocol framework. Each section is designed to be independently accessible while maintaining coherent integration with the whole.
 
 ### Repository Structure
 ```
 GLL_Protocol/
-├── GLL_Protocol_1of4.md (Foundations)
-├── GLL_Protocol_2of4.md (Quantum AI & Ethics)
-├── GLL_Protocol_3of4.md (Future Vision)
-├── GLL_Protocol_4of4.md (Reflections)
+├── Core Protocol
+│   ├── GLL_Protocol_1of4.md (Foundations)
+│   ├── GLL_Protocol_2of4.md (Quantum AI & Ethics)
+│   ├── GLL_Protocol_3of4.md (Future Vision)
+│   └── GLL_Protocol_4of4.md (Reflections)
+├── Specifications
+│   ├── GLL_Primer.md (Technical Guide)
+│   └── H2H_GLL_Specification.md (Human-to-Human Format)
+├── Examples & Workflows
+│   └── examples_ai_human_gll_work_flow.md
 └── GLL_Protocol_Index.md (This file)
 ```
 
