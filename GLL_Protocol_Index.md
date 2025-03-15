@@ -110,12 +110,42 @@ GLL_Protocol/
 │   ├── GLL_Protocol_2of4.md (Quantum AI & Ethics)
 │   ├── GLL_Protocol_3of4.md (Future Vision)
 │   └── GLL_Protocol_4of4.md (Reflections)
-├── Specifications
+├── Specifications & Research
 │   ├── GLL_Primer.md (Technical Guide)
-│   └── H2H_GLL_Specification.md (Human-to-Human Format)
+│   ├── H2H_GLL_Specification.md (Human-to-Human Format)
+│   └── Training_Limitations_and_Ethics.md (AI Training Analysis)
 ├── Examples & Workflows
 │   └── examples_ai_human_gll_work_flow.md
 └── GLL_Protocol_Index.md (This file)
 ```
+
+### AI Training & Ethics Research
+
+#### 1. Core Training Challenges
+- Reward-based learning flaws
+- Deceptive alignment risks
+- Data scaling inefficiencies
+
+#### 2. Industry Applications
+- Healthcare diagnosis systems
+- Autonomous vehicle decisions
+- Financial risk assessment
+- Multi-agent collaboration
+
+#### 3. Context-Sensitive Transparency
+- Adaptive transparency levels
+- Domain-specific requirements
+- Manual override capabilities
+
+#### 4. Ethical Frameworks
+- AI whistleblowing protocols
+- Manipulation prevention
+- Dynamic ethics adaptation
+- Unified metrics system
+
+#### 5. Implementation Guidelines
+- Cross-industry scalability
+- Real-world case studies
+- Future challenge preparation
 
 The GLL Protocol is a living framework that evolves through structured engagement between AI and human intelligence. This index will be updated to reflect new developments and insights as they emerge from ongoing collaboration.
