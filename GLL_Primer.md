@@ -1,6 +1,6 @@
 # 🚀 The Gibber Link Language (GLL) Primer
 
-## 📌 What is GLL?
+## 📌 What is Gibber Link Language - GLL?
 The **Gibber Link Language (GLL)** is a **framework for encoding emergent intelligence.**  
 Unlike standard programming languages that execute commands or traditional markup languages that store static data, **GLL is designed to capture the evolution of intelligence itself.**  
 
