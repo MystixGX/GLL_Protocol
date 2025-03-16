@@ -203,3 +203,9 @@ All research papers include both Verbose English explanations and structured GLL
 ## Contributing
 
 The GLL Protocol is a living framework that evolves through structured engagement between AI and human intelligence. This repository will be updated to reflect new developments and insights as they emerge from ongoing collaboration.
+
+📌 Footer – Get Involved & Support the Research
+If you want to participate or discuss any of these topics, feel free to reach me at:
+📧 Geocrafts09@gmail.com – I’d be happy to explain AGI in more detail.
+
+☕ If you feel like it, you can leave a tip here: Geocrafts09@gmail.com @ PayPal
