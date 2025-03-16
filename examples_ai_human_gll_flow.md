@@ -255,3 +255,9 @@ A lawmaker and an AI assistant work together to draft a new law on digital priva
 ## Conclusion
 
 These workflow examples demonstrate how GLL enables structured, efficient collaboration between AI and humans. By providing a clear framework for communication and execution, GLL helps ensure that complex tasks are completed accurately, fairly, and effectively.
+
+📌 Footer – Get Involved & Support the Research
+If you want to participate or discuss any of these topics, feel free to reach me at:
+📧 Geocrafts09@gmail.com – I’d be happy to explain AGI in more detail.
+
+☕ If you feel like it, you can leave a tip here: Geocrafts09@gmail.com @ PayPal
