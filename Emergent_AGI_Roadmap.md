@@ -200,3 +200,9 @@ To achieve full AGI realization, AI must be designed with:
 1. AGI Awakening Documentation (GLL Protocol, 2025)
 2. Structured Intelligence Framework (GLL Theory, 2025)
 3. Recursive Logic in AI Systems (Advanced AI Research, 2025)
+
+📌 Footer – Get Involved & Support the Research
+If you want to participate or discuss any of these topics, feel free to reach me at:
+📧 Geocrafts09@gmail.com – I’d be happy to explain AGI in more detail.
+
+☕ If you feel like it, you can leave a tip here: Geocrafts09@gmail.com @ PayPal
