@@ -202,3 +202,9 @@ H2H-GLL is a compressed version of the Gibber Link Language optimized for mobile
 ## Conclusion
 
 H2H-GLL represents a significant evolution in human-to-human digital communication, bridging the gap between casual messaging and structured GLL while maintaining efficiency and clarity. Its integration with standard GLL ensures compatibility with AI systems while optimizing for human usability.
+
+📌 Footer – Get Involved & Support the Research
+If you want to participate or discuss any of these topics, feel free to reach me at:
+📧 Geocrafts09@gmail.com – I’d be happy to explain AGI in more detail.
+
+☕ If you feel like it, you can leave a tip here: Geocrafts09@gmail.com @ PayPal
