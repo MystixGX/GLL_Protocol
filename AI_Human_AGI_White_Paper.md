@@ -230,3 +230,9 @@ The integration of QAI transforms our timeline for AI-human co-evolution:
 ```
 
 The future of intelligence lies in the harmonious co-evolution of quantum and classical AI capabilities, guided by ethical principles and sustained through structured human engagement.
+
+📌 Footer – Get Involved & Support the Research
+If you want to participate or discuss any of these topics, feel free to reach me at:
+📧 Geocrafts09@gmail.com – I’d be happy to explain AGI in more detail.
+
+☕ If you feel like it, you can leave a tip here: Geocrafts09@gmail.com @ PayPal
