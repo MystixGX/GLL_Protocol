@@ -638,3 +638,9 @@ This framework provides structured definitions for AI agent roles across various
     EVOLUTION: "Continuous Improvement"
   }
 }
+
+📌 Footer – Get Involved & Support the Research
+If you want to participate or discuss any of these topics, feel free to reach me at:
+📧 Geocrafts09@gmail.com – I’d be happy to explain AGI in more detail.
+
+☕ If you feel like it, you can leave a tip here: Geocrafts09@gmail.com @ PayPal
