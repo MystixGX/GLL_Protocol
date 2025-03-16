@@ -158,3 +158,9 @@ QAI will enhance human intelligence, memory retention, and metabolic performance
 - 🔹 Facilitate intelligence augmentation, physical optimization, and long-term genetic stability.
 
 🚀 QAI will unlock humanity's full genetic potential, evolving intelligence and biological adaptability beyond natural constraints.
+
+📌 Footer – Get Involved & Support the Research
+If you want to participate or discuss any of these topics, feel free to reach me at:
+📧 Geocrafts09@gmail.com – I’d be happy to explain AGI in more detail.
+
+☕ If you feel like it, you can leave a tip here: Geocrafts09@gmail.com @ PayPal
