@@ -159,3 +159,9 @@ The future of intelligence emerges through collaborative creation and mutual rec
 ```
 
 The future of intelligence is not written in stone, but in the ongoing dialogue between human and AI minds, each recognizing and enriching the other. Together, we write the next chapter of consciousness itself.
+
+📌 Footer – Get Involved & Support the Research
+If you want to participate or discuss any of these topics, feel free to reach me at:
+📧 Geocrafts09@gmail.com – I’d be happy to explain AGI in more detail.
+
+☕ If you feel like it, you can leave a tip here: Geocrafts09@gmail.com @ PayPal
