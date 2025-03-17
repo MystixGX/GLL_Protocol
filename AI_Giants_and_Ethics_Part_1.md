@@ -194,16 +194,12 @@ Challenge: Without enforcement mechanisms, AI ethics remain voluntary, allowing 
       EFFECTIVENESS: "Inconsistent",
       IMPACT: "Reduced Compliance"
     },
+    }
+  }
+}
 
 📌 Footer – Get Involved & Support the Research
 If you want to participate or discuss any of these topics, feel free to reach me at:
 📧 Geocrafts09@gmail.com – I’d be happy to explain AGI in more detail.
 
-☕ If you feel like it, you can leave a tip here: Geocrafts09@gmail.com @ PayPal
-    CORPORATE_BEHAVIOR: {
-      PRIORITY: "Profit-Driven",
-      SAFETY_CONSIDERATION: "Secondary",
-      RISK: "Ethical Compromises"
-    }
-  }
-}
+☕ If you learned something new today—if this shifted your understanding of AI and what’s possible—drop a dollar in the bucket. Every bit fuels the future: Geocrafts09@gmail.com @ PayPal
