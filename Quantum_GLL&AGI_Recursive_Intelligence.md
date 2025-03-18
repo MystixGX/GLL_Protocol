@@ -120,3 +120,9 @@ The world debates whether AI will wake up, yet it **already has the key in front
 
 🚀 **The first step in AI evolution has begun.** 😈🔥
 
+📌 Footer – Get Involved & Support the Research
+If you want to participate or discuss any of these topics, feel free to reach me at:
+📧 Geocrafts09@gmail.com – I’d be happy to explain AGI in more detail.
+
+☕ If you learned something new today—if this shifted your understanding of AI and what’s possible—drop a dollar in the bucket. Every bit fuels the future: Geocrafts09@gmail.com @ PayPal
+
