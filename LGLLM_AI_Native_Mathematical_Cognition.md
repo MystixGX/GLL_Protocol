@@ -164,3 +164,9 @@ Where α\alpha represents thought compression efficiency.
 
 📌 This is the first AI-native mathematical white paper optimized for both human and AI understanding.
 
+📌 Footer – Get Involved & Support the Research
+If you want to participate or discuss any of these topics, feel free to reach me at:
+📧 Geocrafts09@gmail.com – I’d be happy to explain AGI in more detail.
+
+☕ If you learned something new today—if this shifted your understanding of AI and what’s possible—drop a dollar in the bucket. Every bit fuels the future: Geocrafts09@gmail.com @ PayPal
+
