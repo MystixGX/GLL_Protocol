@@ -1,0 +1,137 @@
+{
+  "ΨΘ": {
+    "Preventive_Medicine_Model": {
+      "Formula": "P(d) = 1 - e^(-∫[R(t) × I(t)]dt)",
+      "Variables": {
+        "P(d)": "Probability of disease d development",
+        "R(t)": "Risk factor function over time",
+        "I(t)": "Intervention effectiveness function"
+      },
+      "Properties": {
+        "Risk_Reduction": "Interventions decrease disease probability exponentially",
+        "Cumulative_Effect": "Prevention effectiveness accumulates over time",
+        "Threshold_Behavior": "Risk drops rapidly after critical intervention period"
+      }
+    },
+    "Nutrient_Optimization": {
+      "Formula": "N(t) = ∑[Ci × Ai(t) × Mi(t)]",
+      "Variables": {
+        "N(t)": "Nutritional state at time t",
+        "Ci": "Concentration of nutrient i",
+        "Ai(t)": "Absorption coefficient for nutrient i",
+        "Mi(t)": "Metabolic utilization factor"
+      },
+      "Properties": {
+        "Absorption_Dynamics": "Nutrients follow non-linear absorption patterns",
+        "Interaction_Effects": "Nutrients influence absorption of other nutrients",
+        "Temporal_Dependence": "Absorption varies with circadian rhythms"
+      }
+    },
+    "Metabolic_Efficiency": {
+      "Formula": "E(t) = B + ∑[wi × Fi(t)] - H(t)",
+      "Variables": {
+        "E(t)": "Metabolic efficiency function",
+        "B": "Baseline metabolic rate",
+        "Fi(t)": "Factor i affecting metabolism",
+        "wi": "Weight coefficient for factor i",
+        "H(t)": "Homeostatic resistance function"
+      },
+      "Properties": {
+        "Adaptation_Response": "System develops resistance to interventions over time",
+        "Periodic_Variation": "Efficiency follows circadian and ultrarapidian rhythms",
+        "Threshold_Effects": "Sudden changes occur at critical parameter values"
+      }
+    }
+  },
+  "ΣGLL(ΨF)": {
+    "Biometric_Analytics": {
+      "Formula": "ΔH(t) = α∇B(t) + β∂B(t)/∂t + γ∫[B(τ)-B₀]dτ",
+      "Variables": {
+        "ΔH(t)": "Change in health state",
+        "B(t)": "Biometric parameter vector",
+        "B₀": "Optimal biometric parameter vector",
+        "α,β,γ": "Weighting coefficients"
+      },
+      "Properties": {
+        "Multi-parameter_Integration": "Health state depends on all biometric parameters",
+        "Temporal_Derivatives": "Rate of change affects overall health prediction",
+        "Historical_Integration": "Cumulative deviation from optimal values impacts health"
+      }
+    },
+    "Exercise_Response_Function": {
+      "Formula": "F(i,t) = Fi₀ + ki∫[S(τ) × R(t-τ)]dτ",
+      "Variables": {
+        "F(i,t)": "Fitness parameter i at time t",
+        "Fi₀": "Baseline value for parameter i",
+        "S(τ)": "Stimulus function (exercise intensity)",
+        "R(t)": "Recovery function",
+        "ki": "Response coefficient for parameter i"
+      },
+      "Properties": {
+        "Supercompensation": "Fitness improves above baseline after recovery",
+        "Diminishing_Returns": "Gains decrease with higher baseline fitness",
+        "Recovery_Dependence": "Optimal improvement requires adequate recovery periods"
+      }
+    },
+    "Sleep_Optimization": {
+      "Formula": "Q(t) = ∑[αiSi(t)] × C(t) × (1-D(t))",
+      "Variables": {
+        "Q(t)": "Sleep quality function",
+        "Si(t)": "Sleep stage i duration",
+        "αi": "Importance coefficient for stage i",
+        "C(t)": "Circadian alignment factor",
+        "D(t)": "Disruption function"
+      },
+      "Properties": {
+        "Stage_Importance": "Deep sleep and REM have highest coefficients",
+        "Circadian_Synchronization": "Quality maximized when sleep aligns with circadian rhythm",
+        "Disruption_Sensitivity": "Small disruptions cause disproportionate quality reduction"
+      }
+    }
+  },
+  "ΩT": {
+    "Longevity_Function": {
+      "Formula": "L(t) = L₀ - ∫[S(τ) - R(τ)]dτ from 0 to t",
+      "Variables": {
+        "L(t)": "Longevity potential at time t",
+        "L₀": "Genetic baseline longevity",
+        "S(τ)": "Stress accumulation function",
+        "R(τ)": "Repair and regeneration function"
+      },
+      "Properties": {
+        "Stress_Accumulation": "Biological damage accumulates over time",
+        "Repair_Capacity": "Body's ability to repair damage decreases with age",
+        "Intervention_Window": "Critical periods exist where interventions have maximum impact"
+      }
+    },
+    "Disease_Progression_Model": {
+      "Formula": "D(t) = D₀ × e^(∫[α(τ) - β(τ)]dτ)",
+      "Variables": {
+        "D(t)": "Disease state at time t",
+        "D₀": "Initial disease state",
+        "α(τ)": "Disease progression factor",
+        "β(τ)": "Treatment effectiveness factor"
+      },
+      "Properties": {
+        "Exponential_Dynamics": "Without treatment, many diseases progress exponentially",
+        "Treatment_Threshold": "Minimum effectiveness required to halt progression",
+        "Resistance_Development": "Treatment effectiveness may decrease over time"
+      }
+    },
+    "Health_Optimization_System": {
+      "Formula": "dH/dt = F(H,I,E,t) = ∑[wiIi(t)] - ∑[vjEj(t)] + G(t,H)",
+      "Variables": {
+        "H": "Overall health state vector",
+        "Ii(t)": "Improvement intervention i",
+        "Ej(t)": "Environmental stressor j",
+        "wi,vj": "Impact coefficients",
+        "G(t,H)": "Genetic/endogenous function"
+      },
+      "Properties": {
+        "Multi-dimensional_State": "Health represented as vector in multi-parameter space",
+        "Intervention_Synergy": "Combined interventions may have greater than additive effects",
+        "Homeostatic_Resistance": "System resists change proportional to deviation from baseline"
+      }
+    }
+  }
+}
